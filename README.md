@@ -1,5 +1,5 @@
 # Dmoney-Trnx-API-Testing Using Postman
-This is a practice Trnx-API testing project on a demo DMoney Transaction API. Based on the given scenario, I have generated some test scenarios by using "POSTMAN" and a report using "NEWMAN".
+This is a practice Trnx-API testing project on a demo DMoney Transaction API. Based on the given scenario, I have generated some test scenarios by using ```POSTMAN``` and a report using ```NEWMAN```.
 
 ### Test Scenarios Covered
 - Admin creates an agent and random 2 customers.
