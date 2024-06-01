@@ -29,6 +29,8 @@ This is a practice Trnx-API testing project on a demo DMoney Transaction API. Ba
   - Newman
 
 ## Test Case
+https://docs.google.com/spreadsheets/d/1wrRwN9p1TBfYJtjtF-ITrtiRkRyALxROUi0libYYEe8/edit?usp=sharing
+
 ## Bug And Improvement Report
 ## Postman documentation
 https://documenter.getpostman.com/view/35117532/2sA3Qwb9TZ
